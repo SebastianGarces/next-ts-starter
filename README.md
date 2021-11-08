@@ -8,4 +8,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Create `.env.local` to add feature flag env variables. See .env.example.
+Create `.env.local` to add feature flag env variables. See `.env.example`
