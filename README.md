@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, create `.env.local` to add feature flag env variables. See `.env.example`
+First, create `.env.local` to add feature flag environment variables. See `.env.example`
 
 Then, run the development server:
 
